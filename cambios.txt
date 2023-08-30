@@ -14,3 +14,5 @@ Hola esta es la cuenta
 2000
 3000
 4000
+5000
+6000
